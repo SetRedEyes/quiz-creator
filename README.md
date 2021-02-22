@@ -1,3 +1,3 @@
-Quiz creator
-Application provides registration, authorization, creation and passing the tests.
-Firebase API
+Quiz creator  
+Application provides registration, authorization, creation and passing the tests.  
+Firebase API  
